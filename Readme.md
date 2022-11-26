@@ -4,7 +4,7 @@
 
 ## RESP协议
 
-- ![REdis Serialization Protocol](https://redis.io/docs/reference/protocol-spec/)
+- [REdis Serialization Protocol](https://redis.io/docs/reference/protocol-spec/)
 
 In RESP, the first byte determines the data type:
 
